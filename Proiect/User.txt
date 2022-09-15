@@ -1,0 +1,1 @@
+larisa,22,female,164,68,sedentary,weight_loss

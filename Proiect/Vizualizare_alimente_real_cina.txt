@@ -1,0 +1,8 @@
+13.02.2021
+Carne,100,1
+Varza calita,100,2
+Sarmale,150,1;
+14.02.2021
+Lapte,100,1
+Ciorba de vacuta,100,2
+Paine,150,1

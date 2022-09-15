@@ -1,0 +1,24 @@
+13.02.2021
+Castravete,200,2
+Rosii,100,2
+Ardei,50,3
+Ciorba de pui,100,1
+Salata de rosii,100,2
+Piure de cartofi,150,1
+Carne,100,1
+Varza calita,100,2
+Sarmale,150,1
+Ciocolata,100,1
+Eugenie,100,2
+14.02.2021
+Ciorba de perisoare,100,1
+Salata de varza,100,2
+Piure de cartofi,150,1
+Ciorba de perisoare,100,1
+Pilaf de orez,100,2
+Ciuperci,150,1
+Lapte,100,1
+Ciorba de vacuta,100,2
+Paine,150,1
+Tort de ciocolata,100,1
+Rulada,100,2

@@ -1,0 +1,8 @@
+13.02.2021
+Ciocolata,100,1
+Eugenie,100,2
+14.02.2021
+Tort de ciocolata,100,1
+Rulada,100,2
+15.02.2021
+varza,3,2

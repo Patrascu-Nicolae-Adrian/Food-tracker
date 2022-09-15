@@ -1,0 +1,8 @@
+13.02.2021
+Castravete,200,2
+Rosii,100,2
+Ardei,50,3
+14.02.2021
+Ciorba de perisoare,100,1
+Salata de varza,100,2
+Piure de cartofi,150,1

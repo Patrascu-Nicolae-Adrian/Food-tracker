@@ -1,0 +1,8 @@
+13.02.2021
+Ciorba de perisoare,100,1
+Salata de varza,100,2
+Piure de cartofi,150,1
+14.02.2021
+Salata de rosii,100,2
+Piure de cartofi,150,1
+Carne,100,1

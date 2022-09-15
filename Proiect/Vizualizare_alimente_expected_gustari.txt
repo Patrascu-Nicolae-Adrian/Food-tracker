@@ -1,0 +1,6 @@
+13.02.2021
+Inghetata,50,1
+Tort de frisca,100,1
+14.02.2021
+Banane,100,2
+Mere,50,2
